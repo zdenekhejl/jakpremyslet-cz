@@ -1,8 +1,8 @@
 {
-  "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
+  "site_name": "Jak přemýšlet",
+  "title": "Jak přemýšlet",
+  "description": "Využívejte svůj mozek naplno",
   "url": "https://example.com",
-  "locale": "en",
-  "author": "Anonymous"
+  "locale": "cs",
+  "author": "Zdeněk Hejl"
 }
