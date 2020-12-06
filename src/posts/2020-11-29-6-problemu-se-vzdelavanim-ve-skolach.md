@@ -2,10 +2,6 @@
 title: 6 problémů se vzděláváním ve školách
 description: V indické NEXT School identifikovali šest základních problémů, které trápí školní vzdělávání a které je potřeba vyřešit
 date: 2020-11-29T00:00:00Z
-tags:
-    - Učení
-    - Vzdělávání
-    - Školství 
 ---
 Vzdělávání na základních a středních školách se potýká s kritikou laické i odborné veřejnosti snad všude na světě. V indické [NEXT School](http://www.nextschool.org/) identifikovali šest základních problémů, které trápí školní vzdělávání a které je potřeba vyřešit, aby byli studenti dostatečně připraveni na vstup do pracovního procesu. Tyto problémy následně výstižně zachytili v následujícím videu.
 

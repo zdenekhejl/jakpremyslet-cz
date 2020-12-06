@@ -2,8 +2,6 @@
 title: Jaké otázky si klást při kritickém myšlení
 description: Každý den jsme zahlceni množstvím informací. Není vhodné všem informacím automaticky věřit. Je důležité k nim přistupovat kriticky.
 date: 2020-11-27T00:00:00Z
-tags:
-    - Kritické myšlení
 ---
 Každý den jsme zahlceni množstvím informací. Není vhodné všem informacím automaticky věřit. Je důležité k nim přistupovat kriticky.
 
