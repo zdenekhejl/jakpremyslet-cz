@@ -5,7 +5,7 @@ date: 2020-11-29T00:00:00Z
 ---
 Vzdělávání na základních a středních školách se potýká s kritikou laické i odborné veřejnosti snad všude na světě. V indické [NEXT School](http://www.nextschool.org/) identifikovali šest základních problémů, které trápí školní vzdělávání a které je potřeba vyřešit, aby byli studenti dostatečně připraveni na vstup do pracovního procesu. Tyto problémy následně výstižně zachytili v následujícím videu.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/okpg-lVWLbE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/okpg-lVWLbE' frameborder='0' allowfullscreen></iframe></div>
 
 Když bych měl shrnout obsah videa, tak mezi šest nejpalčivějších problémů současného vzdělávání ve školách patří:
 
