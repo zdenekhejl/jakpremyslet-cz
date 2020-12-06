@@ -11,4 +11,6 @@ layout: layouts/base.ejs
   </header>
 
   <section class="content"><%- content %></section>
+  {% if previousPost %}Previous Blog Post: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% endif %}
+
 </article>
