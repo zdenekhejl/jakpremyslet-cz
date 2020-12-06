@@ -2,6 +2,8 @@
 title: 25 tipů jak se rychleji učit
 description: Každý z nás se musí v průběhu svého života někdy učit. Není proto na škodu seznámit se s několika radami, jak je možné se učit rychleji. 
 date: 2020-11-28T00:00:00Z
+tags:
+    - Učení
 ---
 Každý z nás se musí v průběhu svého života někdy učit. Ve škole, v zaměstnání. Ať chce nebo nechce.
 
