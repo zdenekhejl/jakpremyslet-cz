@@ -11,7 +11,5 @@ layout: layouts/base.ejs
   </header>
 
   <section class="content"><%- content %></section>
-  {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-  {% if previousPost %}Previous Blog Post: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% endif %}
 
 </article>
